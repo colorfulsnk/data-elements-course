@@ -14,7 +14,7 @@
 | Lecture 2 | 统计工具：贝叶斯定理 | [PDF](Slides/Lecture%202%20%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7%EF%BC%9A%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AE%9A%E7%90%86.pdf) |
 | Lecture 3 | 贝叶斯定理在经济学建模中的应用 | [PDF](Slides/Lecture%203%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AE%9A%E7%90%86%E5%9C%A8%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%BB%BA%E6%A8%A1%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf) |
 | Lecture 4 | 动态信念更新与卡尔曼滤波 | [PDF](Slides/Lecture%204%20%E5%8A%A8%E6%80%81%E4%BF%A1%E5%BF%B5%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%8D%A1%E5%B0%94%E6%9B%BC%E6%BB%A4%E6%B3%A2.pdf) |
-| Lecture 5 | 数据源与学习机制 | [PDF](Slides/Lecture%205%20%E6%95%B0%E6%8D%AE%E6%BA%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E6%9C%BA%E5%88%B6.pdf) |
+| Lecture 5 | 数据来源与学习机制 | [PDF](Slides/Lecture%205%20%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%E4%B8%8E%E5%AD%A6%E4%B9%A0%E6%9C%BA%E5%88%B6.pdf) |
 
 > 课件将持续更新。
 
